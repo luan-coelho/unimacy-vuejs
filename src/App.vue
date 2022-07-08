@@ -1,7 +1,6 @@
 <template>
-  <div class="flex flex-row">
-    <SideBar class="basis-1/6" />
-    <FormProduto class="basis-5/6" />
+  <div>
+    <SideBar />
   </div>
   <TheFooter />
 </template>
